@@ -4,9 +4,11 @@
 
 ## Topics covered : 
 
-Tools: Jupyter / JupyterLab, Zeppelin notebooks, R Studio, and Watson Studio
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
-Projects: random album generator, predict housing prices, best classifier model, battle of neighborhoods
+**Tools**: Jupyter / JupyterLab, Zeppelin notebooks, R Studio, and Watson Studio
+
+**Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
+
+**Projects**: random album generator, predict housing prices, best classifier model, battle of neighborhoods
 
 ## My certificates
 `Tools for Data Science` : <https://www.coursera.org/account/accomplishments/certificate/5TCVPTR8ZK9W>
