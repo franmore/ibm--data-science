@@ -10,7 +10,11 @@ Projects: random album generator, predict housing prices, best classifier model,
 
 ## My certificates
 `Tools for Data Science` : <https://www.coursera.org/account/accomplishments/certificate/5TCVPTR8ZK9W>
+
 `Python for Data Science and AI` : <https://www.coursera.org/account/accomplishments/certificate/Z8FUHNG5LFPC>
+
 `Data Science Methodology` : <https://www.coursera.org/account/accomplishments/certificate/UD5UGTX76MJV>
+
 `What is Data Science ?` : <https://www.coursera.org/account/accomplishments/certificate/PZCEBT7HV6ST>
+
 `Databases and SQL for Data Science` : <https://www.coursera.org/account/accomplishments/certificate/HNKJQJFUDR6P>
