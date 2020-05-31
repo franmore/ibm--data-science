@@ -25,5 +25,7 @@ This program consists of 9 courses providing with latest job-ready skills and te
 
 `Databases and SQL for Data Science` : <https://www.coursera.org/account/accomplishments/certificate/HNKJQJFUDR6P>
 
+`Data Analysis with Python` : <https://www.coursera.org/account/accomplishments/certificate/YHP9YW8QPNW5>
+
 ## References
 `Data Science Professional Certificate - IBM` : <https://www.coursera.org/professional-certificates/ibm-data-science>
