@@ -29,5 +29,7 @@ This program consists of 9 courses providing with latest job-ready skills and te
 
 `Data Visualization with Python` : <https://www.coursera.org/account/accomplishments/certificate/J9CSL2DQQGUN>
 
+`Machine Learning with Python` : <https://www.coursera.org/account/accomplishments/certificate/AU97Q96YZG9V>
+
 ## References
 `Data Science Professional Certificate - IBM` : <https://www.coursera.org/professional-certificates/ibm-data-science>
